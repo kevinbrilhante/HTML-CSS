@@ -1,0 +1,49 @@
+body{
+    background-color: #7f4818;
+}
+
+header{
+    background-color:#a27025 ;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    padding: 0%;
+    border: 0%;
+}
+
+.item1{
+    width: 20px;
+    height: 20px;
+}
+
+.item2{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 2em;
+    color: #fdfcc9;
+
+}
+
+main{
+    background-color: #fdfcc9;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.bottom{
+    background-color: #a27025;
+}
+
+#botão{
+    font-size: 30px;
+    color: #fdfcc9;
+    text-align: right;
+    border-bottom: #7f4818;
+    border: #7f4818;
+    border-radius: 40px;
+    border-style: ;
+}
+
+#boasvindas{
+    text-align: justify;
+    text-align: center;
+}

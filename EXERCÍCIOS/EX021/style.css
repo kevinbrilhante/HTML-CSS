@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+}
+
+header{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+nav{
+    background-color: rgb(110, 110, 110);
+    text-align: center;
+    box-shadow: 5px 3px 7px 1px black;
+
+    /*Short Hand para box-shadow:    config horizontal + config vertical + blur + spread + color + inset (opcional)*/
+
+
+}
+
+nav > a{
+    text-decoration: none;
+    color: white;
+}
+
+article{
+    background-color: lightgrey;
+}
+
+aside{
+    background-color: rgb(88, 87, 87);
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}

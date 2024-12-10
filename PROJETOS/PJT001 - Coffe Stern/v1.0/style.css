@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fdfcc9;
+    font-size: 750%;
+}
+
+body {
+    background-color: #7f4818;
+    align-items: center;
+}
+
+div {
+    padding: 0%;
+    padding-inline: 0%;
+    padding-block-start: 0%;
+    padding-right: 0%;
+}
+
+#macchiato {
+    margin-left: 2%;
+}
+
+#milkshake {
+    margin-left: 2%;
+}
+
+.items {
+    display: flex;
+}
+
+.header {
+    text-align: center;
+    margin-top: -80px;
+    background-color: #a27025;
+}
+
+.logo1 {
+    margin-top: -225px;
+    margin-left: 7%;
+}
+
+.logo2 {
+    margin-top: -154px;
+    margin-left: 82%;
+}
