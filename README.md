@@ -1,51 +1,36 @@
-This repository contains exercises and challenges developed during my studies of HTML5 and CSS3, based on the Curso em Vídeo course (40h + 40h modules), completed in 2024.
-The main goal of this repository is to practice web development fundamentals, reinforce theoretical concepts, and build consistency through hands-on coding.
+Este repositório reúne exercícios e desafios desenvolvidos durante meus estudos de HTML5 e CSS3, com base no curso do Curso em Vídeo (módulos de 40h + 40h), concluído em 2024.
 
-📚 About the Course
-- Platform: Curso em Vídeo
-- Topics covered:
-  - HTML5 fundamentals;
-  - Semantic HTML;
-  - CSS3 fundamentals;
-  - Layout, colors, typography;
-  - Responsive design basics;
-- Total workload: 80 hours.
+O principal objetivo deste repositório é praticar fundamentos de desenvolvimento web, reforçar conceitos teóricos e desenvolver consistência por meio da prática.
 
-  📁 Repository Structure
-
+📚 Sobre o Curso
+Plataforma: Curso em Vídeo
+Conteúdos abordados:
+Fundamentos de HTML5;
+HTML semântico;
+Fundamentos de CSS3;
+Layout, cores e tipografia;
+Noções básicas de responsividade;
+Carga horária total: 80 horas
+📁 Estrutura do Repositório
 HTML-CSS/
-├── EXERCÍCIOS/   # 22 practical exercises developed during the classes
-└── DESAFIOS/  # 10 challenges solved independently
-
-🛠 Technologies Used
-
-HTML5;
-
-CSS3.
-
-🎯 Learning Objectives
-
-Understand and apply semantic HTML;
-
-Practice CSS styling and layout;
-
-Improve code organization and readability;
-
-Develop problem-solving skills through challenges;
-
-Build a solid foundation for future front-end and full-stack studies.
-
-📌 Notes
-
-This is an educational repository, focused on learning and practice.
-
-The code reflects my evolution during the course, from basic concepts to more structured solutions.
-
-No frameworks or libraries were used, in order to strengthen fundamentals.
-
-👨‍💻 Author
+├── EXERCICIOS/   # 22 exercícios práticos desenvolvidos durante as aulas
+└── DESAFIOS/     # 10 desafios resolvidos de forma independente
+🛠 Tecnologias Utilizadas
+HTML5
+CSS3
+🎯 Objetivos de Aprendizagem
+Compreender e aplicar HTML semântico;
+Praticar estilização e layout com CSS;
+Melhorar a organização e legibilidade do código;
+Desenvolver raciocínio lógico através de desafios;
+Construir uma base sólida para estudos futuros em front-end e back-end.
+📌 Observações
+Este é um repositório educacional, focado em aprendizado e prática;
+O código reflete minha evolução ao longo do curso, desde conceitos básicos até soluções mais estruturadas;
+Não foram utilizados frameworks ou bibliotecas, priorizando o domínio dos fundamentos.
+👨‍💻 Autor
 
 Kevin Valone Brilhante
-Software Engineering student at UMC
-Studying programming logic with Java and web fundamentals (HTML & CSS)
-Seeking a software development internship.
+Estudante de Engenharia de Software – UMC
+Focado em Java, lógica de programação e fundamentos web
+Em busca de oportunidade de estágio em desenvolvimento
